@@ -44,9 +44,8 @@ We welcome:
 
 Let’s build smarter technology together.
 
-🌐 Connect
 
-🌍 Website: OFORG
+🌍 Website: https://aimodels-hta4fgna.manus.space/
 
 💼 GitHub: This repository
 
